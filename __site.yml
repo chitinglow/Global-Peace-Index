@@ -1,8 +1,0 @@
-name: "Personal-website"
-output_dir: "."
-navbar:
-  title: "Personal Website"
-  left:
-  - text: "Home"
-    href: Global.html
-
